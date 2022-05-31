@@ -1,0 +1,4 @@
+baseURL = 'https://alexdata1.github.io/'
+languageCode = 'en-us'
+title = 'Alex Hollomby'
+theme = "serial-programmer"
