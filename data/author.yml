@@ -1,0 +1,18 @@
+name: Alex Hollomby
+description: "
+  <p>
+    Aspiring data analyst from Southampton, UK. Learning SQL, Tableau, R, and Python.
+  </p>
+  <br/>
+  <p>
+    Take a look at my CV and Portfolio below, or my <a href='https://github.com/sharadcodes' target='_blank'>Github</a>.
+  </p>
+"
+email: ajehollomby@gmail.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/alex-hollomby-604b95145/
+  - title: github
+    url: https://github.com/alexdata1
+  - title: email
+    url: mailto:ajehollomby@gmail.com

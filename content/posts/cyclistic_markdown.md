@@ -1,8 +1,8 @@
 ---
 title: "Case Study - Cyclistic"
 author: "Alex Hollomby"
-date: 2022-05-31T17:58:02+01:00
-draft: true
+date: 2022-05-31
+tags: ["Project","R","Tableau"]
 ---
 
 ### Notes on the project
