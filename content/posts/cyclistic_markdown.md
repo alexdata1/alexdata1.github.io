@@ -1,8 +1,8 @@
 ---
-title: "Case Study - Cyclistic"
+title: "CV"
 author: "Alex Hollomby"
-date: 2022-05-31
-tags: ["Project","R","Tableau"]
+date: 2022-06-01
+tags: ["CV"]
 ---
 
 ### Notes on the project
