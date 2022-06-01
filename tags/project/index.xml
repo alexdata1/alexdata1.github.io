@@ -12,13 +12,13 @@
     <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alexdata1.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Case Study - Cyclistic</title>
-      <link>https://alexdata1.github.io/2022/05/31/cyclistic_markdown/</link>
+      <link>https://alexdata1.github.io/2022/05/31/cv/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       <author>me@example.com (sharadcodes)</author>
-      <guid>https://alexdata1.github.io/2022/05/31/cyclistic_markdown/</guid>
-      <description>Notes on the project Here is a link to my GitHub repository for this project, which includes this markdown document along with the code used in the project.
-The Tableau Public page for this project contains all visualisations I created as part of this project (these are also shown in Step 6 of the markdown).
-Introduction As the culmination of my study of Google&amp;rsquo;s Data Analytics Professional Certificate, I carried out a case study as a capstone project to showcase the technical abilities that I learned on the course, as well as my understanding of the data analysis process.</description>
+      <guid>https://alexdata1.github.io/2022/05/31/cv/</guid>
+      <description>Alex Hollomby Profile Versatile individual looking to begin a career in data analytics. Thorough understanding of the data analysis process and strong technical proficiency in a variety of tools used for analysis, including Excel, R, SQL, and Tableau.
+Experienced in understanding stakeholder requirements, processing and cleaning data, creating visualisations and presenting findings. Recognised as able to work effectively both independently and as part of team.
+Having completed the Google Data Analytics Certificate I carried out a case study that can be viewed on my personal portfolio at alexdata1.</description>
     </item>
     
   </channel>
