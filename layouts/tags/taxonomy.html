@@ -1,21 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-  {{ partial "head.html" . }}
   <body>
     <main>
-      {{ partial "header.html" . }}
-      <!-- {{ partial "bio.html" . }} -->
       <h2>Tag: {{.Title}}</h2>
       <section class="articles">
         {{ range .Paginator.Pages }}
         <article class="article">
-          <h2 class="article-title">
-          </h2>
+          <h2 class="article-title"></h2>
           <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>
         </article>
         {{ end }}
       </section>
-      {{ partial "footer.html" . }}
     </main>
   </body>
 </html>
