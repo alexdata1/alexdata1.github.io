@@ -1,7 +1,7 @@
 ---
 title: "Case Study - Cyclistic"
 author: "Alex Hollomby"
-date: 2022-05-31
+date: 2022-06-01
 ---
 
 ### Notes on the project
