@@ -8,6 +8,43 @@
     <language>en-us</language>
     <managingEditor>me@example.com (sharadcodes)</managingEditor>
     <webMaster>me@example.com (sharadcodes)</webMaster>
-    <copyright>2021 Janne Kemppainen All rights reserved</copyright><atom:link href="https://alexdata1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2021 Janne Kemppainen All rights reserved</copyright>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alexdata1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project</title>
+      <link>https://alexdata1.github.io/tags/project/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <author>me@example.com (sharadcodes)</author>
+      <guid>https://alexdata1.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://alexdata1.github.io/tags/r/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <author>me@example.com (sharadcodes)</author>
+      <guid>https://alexdata1.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://alexdata1.github.io/tags/tableau/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <author>me@example.com (sharadcodes)</author>
+      <guid>https://alexdata1.github.io/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://alexdata1.github.io/tags/cv/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <author>me@example.com (sharadcodes)</author>
+      <guid>https://alexdata1.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
