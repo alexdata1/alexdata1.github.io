@@ -8,11 +8,6 @@
         <div class="article-header">
           <h2 class="article-title">{{ .Title }}</h2>
           <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>
-          <div class="tags">
-            {{ range $.Params.tags }}
-            <a href="{{site.BaseURL}}tags/{{ . }}" class="tag">{{ . }}</a>
-            {{ end }}
-          </div>
         </div>
         <div class="content">{{ .Content }}</div>
       </section>
