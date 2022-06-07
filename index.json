@@ -13,7 +13,8 @@
       "title": "Case Study - Cyclistic",
       "content_text": "Notes on the project Here is a link to my GitHub repository for this project, which includes this markdown document along with the code used in the project.\nThe Tableau Public page for this project contains all visualisations I created as part of this project (these are also shown in Step 6 of the markdown).\nIntroduction As the culmination of my study of Google\u0026rsquo;s Data Analytics Professional Certificate, I carried out a case study as a capstone project to showcase the technical abilities that I learned on the course, as well as my understanding of the data analysis process.",
       "url": "https://alexdata1.github.io/2022/06/01/cyclistic_markdown/",
-      "date_published": "2022-06-01 00:00:00 +0000 UTC"
+      "date_published": "2022-06-01 00:00:00 +0000 UTC",
+      "tags": ["Project,R,Tableau"]
     }
   
   , 
@@ -22,7 +23,8 @@
       "title": "CV",
       "content_text": "Alex Hollomby Profile Versatile individual looking to begin a career in data analytics. Thorough understanding of the data analysis process and strong technical proficiency in a variety of tools used for analysis, including Excel, R, SQL, and Tableau.\nExperienced in understanding stakeholder requirements, processing and cleaning data, creating visualisations and presenting findings. Recognised as able to work effectively both independently and as part of team.\nHaving completed the Google Data Analytics Certificate, carried out a case study that can be viewed on my personal portfolio at alexdata1.",
       "url": "https://alexdata1.github.io/2022/05/31/cv/",
-      "date_published": "2022-05-31 00:00:00 +0000 UTC"
+      "date_published": "2022-05-31 00:00:00 +0000 UTC",
+      "tags": ["CV"]
     }
   
   ]
