@@ -2,7 +2,6 @@
 title: "CV"
 author: "Alex Hollomby"
 date: 2022-01-01
-tags: ["CV"]
 ---
 
 Alex Hollomby
