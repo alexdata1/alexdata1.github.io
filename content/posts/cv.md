@@ -1,7 +1,7 @@
 ---
 title: "CV"
 author: "Alex Hollomby"
-date: 2022-01-01
+date: 2022-05-31
 tags: ["CV"]
 ---
 
@@ -15,7 +15,7 @@ Versatile individual looking to begin a career in data analytics. Thorough under
 
 Experienced in understanding stakeholder requirements, processing and cleaning data, creating visualisations and presenting findings. Recognised as able to work effectively both independently and as part of team.
 
-Having completed the Google Data Analytics Certificate I carried out a case study that can be viewed on my personal portfolio at [alexdata1.github.io](https://alexdata1.github.io/)
+Having completed the Google Data Analytics Certificate, carried out a case study that can be viewed on my personal portfolio at [alexdata1.github.io](https://alexdata1.github.io/)
 
 
 Employment History
@@ -67,13 +67,13 @@ January 2022 - May 2022
     * Gained experience working with data in both spreadsheets and relational databases.
     * Learned how to perform SQL queries, analyse data with R and visualise data using Tableau.
     * Understood data types and data structures, and the importance of considering matters such as bias, credibility, data privacy and ethics.
-    * Completed a hands on case study as a capstone project. Prepared, processed, cleaned and analysed real-world bike share data in order to evaluate customer preferences and trends and developed recommenddations based on these findings. This can be found on my portfolio at https://alexdata1.github.io, and on GitHub at https://github.com/alexdata1/CaseStudy-Cyclistic
+    * Completed a hands on case study as a capstone project. Prepared, processed, cleaned and analysed real-world bike share data in order to evaluate customer preferences and trends and developed recommendations based on these findings. This can be found on my portfolio at https://alexdata1.github.io, and on GitHub at https://github.com/alexdata1/CaseStudy-Cyclistic
 
 
 Education
 ----------
 
-September 2010 - July 2017
+September 2014 - July 2017
 
 :   **BA Classics (2.1)**; University College London
 
