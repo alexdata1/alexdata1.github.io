@@ -13,7 +13,7 @@
           </h2>
           <small class="date">{{ .Date.Format "Jan 2, 2006" }}</small>
           <div class="tags">
-            {{ range .Params.Tags }}
+            {{ range .Params.tags }}
             <a href="{{site.BaseURL}}tags/{{ . }}" class="tag">{{ . }}</a>
             {{ end }}
           </div>
