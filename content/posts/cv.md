@@ -25,12 +25,12 @@ October 2017 - November 2021
 
 :   **Tax Advisor**; Warrener Stewart (London)
 
-    * Prepared and submitted tax computations and returns for several hundred companies, individuals and partnerships each year.
-    * Maintained the company's client database for UK limited companies and non-resident companies, consisting of over 500 clients. Ensured timely submission of tax returns and tax payments to HMRC.
-    * Reviewed and edited research and development relief reports and prepared the accompanying relief claims, resulting in successful claims worth hundreds of thousands of pounds in some cases.
+    * Prepared and submitted tax computations and returns for several hundred companies, as well as individuals and partnerships.
+    * Maintained the company's client database for UK limited companies and non-resident companies. Ensured timely submission of tax returns and tax payments to HMRC.
+    * Reviewed and edited research and development relief reports and prepared the accompanying relief claims.
     * Liaised with accounts managers to create detailed schedules for tax computations and ensure correct tax treatment of all income and expenditure.
-    * Prepared monthly and quarterly tax reports and spreadsheets for managers.
-    * Wrote software that automatically drafted email reminders each month. 
+    * Prepared monthly and quarterly tax reports for managers.
+    * Wrote software using Visual Basic in Microsoft Excel to automatically draft email reminders each month. 
     * Performed research on a variety of UK and international tax issues and prepared clear, concise summaries for clients and partners.
     * Regularly corresponded with HMRC to ensure government progress on inquiries and tax repayments.
     * Achieved passes in ATT examination papers 1, 2 and 3.
@@ -67,7 +67,7 @@ January 2022 - May 2022
     * Gained experience working with data in both spreadsheets and relational databases.
     * Learned how to perform SQL queries, analyse data with R and visualise data using Tableau.
     * Understood data types and data structures, and the importance of considering matters such as bias, credibility, data privacy and ethics.
-    * Completed a hands on case study as a capstone project. Prepared, processed, cleaned and analysed real-world bike share data in order to evaluate customer preferences and trends and developed recommendations based on these findings. This can be found on my portfolio at https://alexdata1.github.io, and on GitHub at https://github.com/alexdata1/CaseStudy-Cyclistic
+    * Completed a hands-on case study as a capstone project. Prepared, processed, cleaned and analysed real-world bike share data in order to evaluate customer preferences and trends and developed recommendations based on these findings. This can be found on my portfolio at https://alexdata1.github.io, and on GitHub at https://github.com/alexdata1/CaseStudy-Cyclistic
 
 
 Education

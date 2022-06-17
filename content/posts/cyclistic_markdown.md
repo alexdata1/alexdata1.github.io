@@ -38,11 +38,11 @@ With a plan of action in place, I began preparing the data for analysis.
 
 The data was made available [here](https://divvy-tripdata.s3.amazonaws.com/index.html) from Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). 
 
-As mentioned previously, i decided that using the last twelve months' data would be best. This would ensure the data was recent, and provide a year-long scope for the project so that trends across months and seasons could be analysed.
+As mentioned earlier, I decided that using the last twelve months' data would be best. This would ensure the data was recent, and would provide a year-long scope for the project so that trends across months and seasons could be analysed.
 
-Having downloaded the .zip files and unpacked the .csv files from each of them, I realised that I was working with a large amount of data (almost 1 gigabyte in total across just 12 .csv files!). As a result, this project could not easily be done via Excel or Google Sheets, so I decided that using the R programming language would be best. Along with the benefit of R being able to work with large data sets, I could find packages to work with the data the way I wanted, and write up the steps taken in markdown as I went along.
+Having downloaded the .zip files and unpacked the .csv files from each of them, I realised that I was working with a large amount of data (almost 1 gigabyte in total across just 12 .csv files!). As a result, this project could not easily be done via Excel or Google Sheets. I decided that using the R programming language would be best. Along with the benefit of R being able to work with large data sets, I could find packages to work with the data the way I wanted, and write up the steps taken in markdown as I went along.
 
-I installed VStudio code on the recommendation of a friend, and began setting things up to start my analysis.
+I installed Visual Studio code on the recommendation of a friend, and began setting things up to start my analysis.
 
 #### Setting up my environment
 
