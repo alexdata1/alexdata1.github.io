@@ -11,11 +11,11 @@ Alex Hollomby
 Profile
 ---------
 
-Versatile individual looking to begin a career in data analytics. Thorough understanding of the data analysis process and strong technical proficiency in a variety of tools used for analysis, including Excel, R, SQL, and Tableau. 
+I am a versatile individual looking to establish a career in data analytics. I have a thorough understanding of the data analysis process and strong technical proficiency in a variety of tools used for data analysis, including Excel, R, SQL, and Tableau.
 
-Experienced in understanding stakeholder requirements, processing and cleaning data, creating visualisations and presenting findings. Recognised as able to work effectively both independently and as part of a team.
+I am experienced in understanding stakeholder requirements, processing and cleaning data, creating visualisations and presenting findings to stakeholders. I am able to work effectively both independently and as part of a team.
 
-Having completed the Google Data Analytics Certificate, carried out a case study that can be viewed on my personal portfolio at [alexdata1.github.io](https://alexdata1.github.io/)
+My personal portfolio can be found at https://alexdata1.github.io
 
 
 Employment History
@@ -91,11 +91,9 @@ Skills
 * CaseWare
 * Google BigQuery
 * Google Docs
-* Google Sheets
-* Microsoft Excel
-* Microsoft Powerpoint
-* Microsoft Word
-* R programming
+* Microsoft Office
+* Microsoft Power BI
+* R Programming
 * SQL
 * Tableau
 
