@@ -13,7 +13,7 @@ Profile
 
 Versatile individual looking to begin a career in data analytics. Thorough understanding of the data analysis process and strong technical proficiency in a variety of tools used for analysis, including Excel, R, SQL, and Tableau. 
 
-Experienced in understanding stakeholder requirements, processing and cleaning data, creating visualisations and presenting findings. Recognised as able to work effectively both independently and as part of team.
+Experienced in understanding stakeholder requirements, processing and cleaning data, creating visualisations and presenting findings. Recognised as able to work effectively both independently and as part of a team.
 
 Having completed the Google Data Analytics Certificate, carried out a case study that can be viewed on my personal portfolio at [alexdata1.github.io](https://alexdata1.github.io/)
 
